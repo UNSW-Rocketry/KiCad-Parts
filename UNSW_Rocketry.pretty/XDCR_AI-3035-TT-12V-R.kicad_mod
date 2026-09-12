@@ -1,0 +1,175 @@
+(footprint "XDCR_AI-3035-TT-12V-R"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.575 -16.635 0)
+		(layer "F.SilkS")
+		(uuid "9343ad12-a503-43a0-8afa-bc4dd17b248a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "XDCR_AI-3035-TT-12V-R"
+		(at 10.735 16.635 0)
+		(layer "F.Fab")
+		(uuid "0e7d17e4-88fb-429a-b59e-75632880ef2d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "745bcfdf-102d-48ba-af68-fa1babf8cdb6")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ff6d21ff-e9e2-4946-9c33-0b3be12b1c8f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -17.78 0)
+		(end -16.51 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "51658929-c561-4d52-bbac-a6ac1ba941b6")
+	)
+	(fp_line
+		(start -17.145 -0.635)
+		(end -17.145 0.635)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ef19b2c8-6169-498c-8611-8468607b0c84")
+	)
+	(fp_line
+		(start 15.875 0)
+		(end 17.145 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "36199847-c303-47b1-8dc9-7d39994597aa")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 15.1 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "60db1d88-7ed6-4cab-b517-36a399992242")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 15.35 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "ff948357-da53-43b3-a47a-1fd206de51f5")
+	)
+	(fp_line
+		(start -17.78 0)
+		(end -16.51 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bdfa39b5-a95e-4194-88a2-f68e3ab21db9")
+	)
+	(fp_line
+		(start -17.145 -0.635)
+		(end -17.145 0.635)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "df0f433f-19b7-49d1-8889-a63a5556aedf")
+	)
+	(fp_line
+		(start 15.875 0)
+		(end 17.145 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6229fad8-0cde-43d2-89a6-e954d49decf6")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 15.1 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "ccdacf65-6868-43a0-a525-02331c6e784c")
+	)
+	(pad "N" thru_hole circle
+		(at 7.5 0)
+		(size 1.508 1.508)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "d60fb0ff-266b-44b5-947f-5e63e4c324a7")
+	)
+	(pad "P" thru_hole circle
+		(at -7.5 0)
+		(size 1.508 1.508)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "60f24657-921d-42c2-9e2d-4d0ff9f526d9")
+	)
+	(embedded_fonts no)
+	(model "../UNSW Rocketry Parts/3D models/AI-3035-TT-12V-R.step"
+		(offset
+			(xyz 0 0 10)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
