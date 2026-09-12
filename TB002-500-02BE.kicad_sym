@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "UNSW Rocketry Library:CUI_TB002-500-02BE"
+		(property "Footprint" "UNSW Rocketry:CUI_TB002-500-02BE"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

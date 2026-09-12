@@ -31,7 +31,7 @@
 				)
 			)
 		)
-		(property "Footprint" "UFV_TOS"
+		(property "Footprint" "UNSW Rocketry:UFV_TOS"
 			(at 25.4 3.048 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60,16 +60,6 @@
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)

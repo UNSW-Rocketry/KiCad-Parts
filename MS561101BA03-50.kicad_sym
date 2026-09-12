@@ -31,7 +31,7 @@
 				)
 			)
 		)
-		(property "Footprint" "UNSW Rocketry Library:SON8_MS5611_TEC"
+		(property "Footprint" "UNSW Rocketry:SON8_MS5611_TEC"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

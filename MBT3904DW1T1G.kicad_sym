@@ -31,7 +31,7 @@
 				)
 			)
 		)
-		(property "Footprint" "UNSW Rocketry Library:SOT-363&slash_SC-88&slash_SC70-6&slash_CASE419B_OSI"
+		(property "Footprint" "UNSW Rocketry:SOT-363&slash_SC-88&slash_SC70-6&slash_CASE419B_OSI"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

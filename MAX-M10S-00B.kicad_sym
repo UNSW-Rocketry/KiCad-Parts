@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "UNSW Rocketry Library:XCVR_MAX-M10S-00B"
+		(property "Footprint" "UNSW Rocketry:XCVR_MAX-M10S-00B"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

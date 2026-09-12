@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "UNSW Rocketry Library:GCT_USB4110GFA"
+		(property "Footprint" "UNSW Rocketry:GCT_USB4110GFA"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
